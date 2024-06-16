@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="added file">
-      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_14062024/Leap_year.py" afterDir="false" />
+    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="print programs">
+      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_012.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_05062024/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_05062024/Lab004.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +58,14 @@
   "keyToString": {
     "Python.Lab004.executor": "Run",
     "Python.Lab_003.executor": "Run",
+    "Python.Lab_005.executor": "Run",
+    "Python.Lab_006.executor": "Run",
+    "Python.Lab_007.executor": "Run",
+    "Python.Lab_008.executor": "Run",
+    "Python.Lab_009.executor": "Run",
+    "Python.Lab_010.executor": "Run",
+    "Python.Lab_011.executor": "Run",
+    "Python.Lab_012.executor": "Run",
     "Python.Leap_year.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -119,12 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1718300487948</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="print programs">
+      <option name="closed" value="true" />
+      <created>1718381805195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718381805195</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab001" />
     <MESSAGE value="added file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added file" />
+    <MESSAGE value="print programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="print programs" />
   </component>
 </project>
