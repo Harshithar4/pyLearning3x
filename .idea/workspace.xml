@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="Format string">
-      <change afterPath="$PROJECT_DIR$/ex_07062024/Lab_019.py" afterDir="false" />
+    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="None type">
+      <change afterPath="$PROJECT_DIR$/ex_07062024/Lab_023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,10 @@
     "Python.Lab_017.executor": "Run",
     "Python.Lab_018.executor": "Run",
     "Python.Lab_019.executor": "Run",
+    "Python.Lab_020.executor": "Run",
+    "Python.Lab_021.executor": "Run",
+    "Python.Lab_022.executor": "Run",
+    "Python.Lab_023.executor": "Run",
     "Python.Leap_year.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -186,7 +191,39 @@
       <option name="project" value="LOCAL" />
       <updated>1718540046773</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Built in functions">
+      <option name="closed" value="true" />
+      <created>1718540380074</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718540380074</updated>
+    </task>
+    <task id="LOCAL-00011" summary="String is immutable">
+      <option name="closed" value="true" />
+      <created>1718540529349</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718540529349</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Lengthy string">
+      <option name="closed" value="true" />
+      <created>1718540656361</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718540656361</updated>
+    </task>
+    <task id="LOCAL-00013" summary="None type">
+      <option name="closed" value="true" />
+      <created>1718540747691</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718540747691</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,6 +236,10 @@
     <MESSAGE value="Division operation" />
     <MESSAGE value="String concatenation &amp; format string" />
     <MESSAGE value="Format string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Format string" />
+    <MESSAGE value="Built in functions" />
+    <MESSAGE value="String is immutable" />
+    <MESSAGE value="Lengthy string" />
+    <MESSAGE value="None type" />
+    <option name="LAST_COMMIT_MESSAGE" value="None type" />
   </component>
 </project>

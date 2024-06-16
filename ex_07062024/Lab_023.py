@@ -1,0 +1,13 @@
+buy_list=['bread','butter','jam','poha']
+print(buy_list)
+print(buy_list.count('poha'))
+print(buy_list.sort())
+buy_list.append('milk')
+print(buy_list)
+buy_list.remove('butter')
+print(buy_list)
+print(buy_list[0])
+buy_list.reverse()
+print(buy_list)
+buy_list.sort()
+print(buy_list)
