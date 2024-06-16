@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="Boolean type">
-      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab_027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_14062024/Triangle.py" afterDir="false" />
+    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="Triangle classifier">
+      <change afterPath="$PROJECT_DIR$/ex_14062024/Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/Fibonacci.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Factorial.executor": "Run",
+    "Python.Fibonacci.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab_003.executor": "Run",
     "Python.Lab_005.executor": "Run",
@@ -261,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718542296508</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Triangle classifier">
+      <option name="closed" value="true" />
+      <created>1718553748932</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1718553748932</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -282,6 +292,7 @@
     <MESSAGE value="Escape sequence" />
     <MESSAGE value="Literals" />
     <MESSAGE value="Boolean type" />
-    <option name="LAST_COMMIT_MESSAGE" value="Boolean type" />
+    <MESSAGE value="Triangle classifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="Triangle classifier" />
   </component>
 </project>
