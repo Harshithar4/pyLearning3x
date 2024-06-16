@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="Data types revision exercise">
-      <change afterPath="$PROJECT_DIR$/ex_07062024/Lab_014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07062024/Lab_015.py" afterDir="false" />
+    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="Division operation">
+      <change afterPath="$PROJECT_DIR$/ex_07062024/Lab_017.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +61,8 @@
     "Python.Lab_013.executor": "Run",
     "Python.Lab_014.executor": "Run",
     "Python.Lab_015.executor": "Run",
+    "Python.Lab_016.executor": "Run",
+    "Python.Lab_017.executor": "Run",
     "Python.Leap_year.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -152,7 +153,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718538347806</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="string concatenation">
+      <option name="closed" value="true" />
+      <created>1718538761500</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718538761500</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Division operation">
+      <option name="closed" value="true" />
+      <created>1718539177185</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718539177185</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,6 +178,8 @@
     <MESSAGE value="print programs" />
     <MESSAGE value="Data types" />
     <MESSAGE value="Data types revision exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data types revision exercise" />
+    <MESSAGE value="string concatenation" />
+    <MESSAGE value="Division operation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Division operation" />
   </component>
 </project>
