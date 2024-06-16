@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="print programs">
-      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab_012.py" afterDir="false" />
+    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="Data types revision exercise">
+      <change afterPath="$PROJECT_DIR$/ex_07062024/Lab_014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/Lab_015.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_05062024/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_05062024/Lab004.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +59,9 @@
     "Python.Lab_010.executor": "Run",
     "Python.Lab_011.executor": "Run",
     "Python.Lab_012.executor": "Run",
+    "Python.Lab_013.executor": "Run",
+    "Python.Lab_014.executor": "Run",
+    "Python.Lab_015.executor": "Run",
     "Python.Leap_year.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -140,13 +136,31 @@
       <option name="project" value="LOCAL" />
       <updated>1718381805195</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Data types">
+      <option name="closed" value="true" />
+      <created>1718538005224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718538005224</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Data types revision exercise">
+      <option name="closed" value="true" />
+      <created>1718538347806</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718538347806</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab001" />
     <MESSAGE value="added file" />
     <MESSAGE value="print programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="print programs" />
+    <MESSAGE value="Data types" />
+    <MESSAGE value="Data types revision exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data types revision exercise" />
   </component>
 </project>
