@@ -1,0 +1,10 @@
+is_male=True
+is_male1=False
+print(is_male)
+print(is_male1)
+ten=0b1010
+print(ten)
+c=0o120
+print(c)
+d=0x12
+print(d)
