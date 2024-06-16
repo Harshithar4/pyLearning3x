@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="Division operation">
-      <change afterPath="$PROJECT_DIR$/ex_07062024/Lab_017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="Format string">
+      <change afterPath="$PROJECT_DIR$/ex_07062024/Lab_019.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,8 @@
     "Python.Lab_015.executor": "Run",
     "Python.Lab_016.executor": "Run",
     "Python.Lab_017.executor": "Run",
+    "Python.Lab_018.executor": "Run",
+    "Python.Lab_019.executor": "Run",
     "Python.Leap_year.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -169,7 +170,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718539177185</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="String concatenation &amp; format string">
+      <option name="closed" value="true" />
+      <created>1718539806235</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718539806235</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Format string">
+      <option name="closed" value="true" />
+      <created>1718540046773</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718540046773</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,6 +197,8 @@
     <MESSAGE value="Data types revision exercise" />
     <MESSAGE value="string concatenation" />
     <MESSAGE value="Division operation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Division operation" />
+    <MESSAGE value="String concatenation &amp; format string" />
+    <MESSAGE value="Format string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Format string" />
   </component>
 </project>
