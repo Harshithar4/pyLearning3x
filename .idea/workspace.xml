@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="Triangle classifier">
-      <change afterPath="$PROJECT_DIR$/ex_14062024/Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_14062024/Fibonacci.py" afterDir="false" />
+    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="Task3">
+      <change afterPath="$PROJECT_DIR$/ex_17062024/Lab_060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_17062024/Lab_061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_17062024/Lab_062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_17062024/Lab_063.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_14062024/Factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_14062024/Factorial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.Factorial.executor": "Run",
+    "Python.Factorial.executor": "Debug",
     "Python.Fibonacci.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab_003.executor": "Run",
@@ -76,6 +79,10 @@
     "Python.Lab_025.executor": "Run",
     "Python.Lab_026.executor": "Run",
     "Python.Lab_027.executor": "Run",
+    "Python.Lab_060.executor": "Run",
+    "Python.Lab_061.executor": "Run",
+    "Python.Lab_062.executor": "Run",
+    "Python.Lab_063.executor": "Run",
     "Python.Leap_year.executor": "Run",
     "Python.Triangle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -271,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718553748932</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Task3">
+      <option name="closed" value="true" />
+      <created>1718559257429</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1718559257429</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -293,6 +308,28 @@
     <MESSAGE value="Literals" />
     <MESSAGE value="Boolean type" />
     <MESSAGE value="Triangle classifier" />
-    <option name="LAST_COMMIT_MESSAGE" value="Triangle classifier" />
+    <MESSAGE value="Task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex_14062024/Factorial.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex_14062024/Factorial.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="__file__" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
