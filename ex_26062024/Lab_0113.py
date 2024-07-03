@@ -11,5 +11,6 @@ class Person:
 
 person=Person()
 person.name="gani"
+print(person.name)
 person.talk()
 person.walk()
