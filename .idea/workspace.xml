@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="OOPs class and Objects">
-      <change afterPath="$PROJECT_DIR$/ex_01072024/Lab0134.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_17062024/Lab_064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab_070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_26062024/Lab_0118.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_26062024/Lab_0119.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_26062024/Lab_0120.py" afterDir="false" />
+    <list default="true" id="817beec6-5f53-4b03-a303-58f3c7847f8a" name="Changes" comment="OOPs class and Objects example">
+      <change afterPath="$PROJECT_DIR$/ex_28062024/Lab_0121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_28062024/Lab_0122.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_26062024/Lab_0113.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_26062024/Lab_0113.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +69,8 @@
     "Python.Lab_0119.executor": "Run",
     "Python.Lab_012.executor": "Run",
     "Python.Lab_0120.executor": "Run",
+    "Python.Lab_0121.executor": "Run",
+    "Python.Lab_0122.executor": "Run",
     "Python.Lab_013.executor": "Run",
     "Python.Lab_014.executor": "Run",
     "Python.Lab_015.executor": "Run",
@@ -313,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719808560673</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="OOPs class and Objects example">
+      <option name="closed" value="true" />
+      <created>1719978475327</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1719978475327</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -338,7 +343,8 @@
     <MESSAGE value="Task3" />
     <MESSAGE value="Functions" />
     <MESSAGE value="OOPs class and Objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOPs class and Objects" />
+    <MESSAGE value="OOPs class and Objects example" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOPs class and Objects example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
